@@ -1,1 +1,1 @@
-# TPL-Ban-Content-Tools
+# TPL-Ban-Content
